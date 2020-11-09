@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LabTask3
 {
-    class Account
+    public class Account
     {
         private String accName;
         private String acid;
@@ -28,7 +28,7 @@ namespace LabTask3
 
     }
 
-    class Course
+   public class Course
     {
         private String courseName;
         private String courseCode;
