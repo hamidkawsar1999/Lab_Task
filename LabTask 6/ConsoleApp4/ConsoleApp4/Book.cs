@@ -12,7 +12,7 @@ namespace ConsoleApp4
         private String bookType;
         private int bookCopy; // how many copy 
 
-        Book()
+       public Book()
         {
 
         }
@@ -22,25 +22,25 @@ namespace ConsoleApp4
             get { return bookCopy; }
 
         }
-        public int bName
+        public String bName
         {
-            set { bookCopy = value; }
-            get { return bookCopy; }
+            set { bookName = value; }
+            get { return bookName; }
         }
-        public int bAuthor
+        public String bAuthor
         {
-            set { bookCopy = value; }
-            get { return bookCopy; }
+            set { bookAuthor = value; }
+            get { return bookAuthor; }
         }
-        public int bId
+        public string bId
         {
-            set { bookCopy = value; }
-            get { return bookCopy; }
+            set { bookId = value; }
+            get { return bookId; }
         }
-        public int bType
+        public string bType
         {
-            set { bookCopy = value; }
-            get { return bookCopy; }
+            set { bookType = value; }
+            get { return bookType; }
         }
 
         Book(String bookname,string bookAuthor)
@@ -48,11 +48,11 @@ namespace ConsoleApp4
             Console.WriteLine();
 
         }
-        void ShowInfo()
+        public void ShowInfo()
         {
             Console.WriteLine("Book Name : "+bookName+"\n Book Author: "+bookAuthor+"\n Book ID: "+bookId+"\n Book Type: "+bookType+"\n Book Copy: "+bookCopy);
         }
-        void AddBookCopy(int x)
+        public void AddBookCopy(int x)
         {
             bookCopy = bookCopy + x;  
         }
