@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractionLabTask_7
 {
-    class Fixed:ACOUNT
+    class SpecialSaving : ACOUNT
     {
          protected int turnerYear;
          protected int withdrawalYear;

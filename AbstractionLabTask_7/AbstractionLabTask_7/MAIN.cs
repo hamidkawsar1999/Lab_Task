@@ -18,8 +18,9 @@ namespace AbstractionLabTask_7
             S.ShowAccountInfo();
             S.Withdraw(800);
             Console.WriteLine();
-
-            Fixed fix = new Fixed();
+         
+            
+             SpecialSaving fix =new SpecialSaving(); 
             fix.AcName = "Hamid Kawsar";
             fix.AccId = "12cdfKH";
             
@@ -30,7 +31,7 @@ namespace AbstractionLabTask_7
             Console.WriteLine();
 
 
-            SpecialSaving SS = new SpecialSaving();
+           Fixed  SS = new Fixed();
             SS.AcName = "Hamid Kawsar";
             SS.AccId = "12cdfKH";
             SS.TurnerYear = 2030;

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace AbstractionLabTask_7
 {
-    class SpecialSaving:Fixed
+    class Fixed : SpecialSaving
     {
 
         public override void Withdraw(double amount)
