@@ -1,0 +1,13 @@
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\bin\Debug\netcoreapp3.1\AbstractionLabTask_7.exe
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\bin\Debug\netcoreapp3.1\AbstractionLabTask_7.deps.json
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\bin\Debug\netcoreapp3.1\AbstractionLabTask_7.runtimeconfig.json
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\bin\Debug\netcoreapp3.1\AbstractionLabTask_7.runtimeconfig.dev.json
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\bin\Debug\netcoreapp3.1\AbstractionLabTask_7.dll
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\bin\Debug\netcoreapp3.1\AbstractionLabTask_7.pdb
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\obj\Debug\netcoreapp3.1\AbstractionLabTask_7.csprojAssemblyReference.cache
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\obj\Debug\netcoreapp3.1\AbstractionLabTask_7.AssemblyInfoInputs.cache
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\obj\Debug\netcoreapp3.1\AbstractionLabTask_7.AssemblyInfo.cs
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\obj\Debug\netcoreapp3.1\AbstractionLabTask_7.csproj.CoreCompileInputs.cache
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\obj\Debug\netcoreapp3.1\AbstractionLabTask_7.dll
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\obj\Debug\netcoreapp3.1\AbstractionLabTask_7.pdb
+D:\C#\LabTask\AbstractionLabTask_7\AbstractionLabTask_7\obj\Debug\netcoreapp3.1\AbstractionLabTask_7.genruntimeconfig.cache

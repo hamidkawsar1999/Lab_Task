@@ -4,45 +4,52 @@ using System.Text;
 
 namespace ConsoleApp4
 {
+
+public class parenta
+    {
+      public virtual  void cls()
+        {
+            Console.WriteLine(" hello from parent class");
+        }
+        
+    }
+
+    public class son : parenta
+    {
+        
+     public override  void cls()
+        {
+            Console.WriteLine(" hello from child class");
+        }
+
+    }
     class FINAL
     {
+
+        public static int Add(int n,int p)
+        {
+
+            return n+p;
+
+        }
         static void Main()
         {
-            Student s = new Student();
-            s.Id = "19-40077-1";
-            s.Name = "Kawsar Hamid";
-            s.Depertment = "CSE";
-            s.Cgpa = 3.81f;
-            s.showInfo();
-            Console.WriteLine("\n");
 
 
+            son ob2 = new son();
+            ob2.cls();
 
-            Library ob = new Library();
-            ob.libNAME = "new LIBRARY";
-            ob.libADDRESS = "Uttara Dhaka";
-            ob.ShowLibInfo();
+
+            parenta ob1 = new parenta();
+            ob1.cls();
+            //son ob = new son();
+
+             
            
-            Console.WriteLine("\n");
-
-            ob.ShowAllBooks();
-            Console.WriteLine("\n");
-
-            Book book = new Book();
-            book.bName = "oop2";
-            ob.AddNewBook(book);
             
-            ob.ShowAllBooks();
-            Console.WriteLine("\n");
-
-            ob.DeleteBook(book);
-            ob.ShowAllBooks();
-            Console.WriteLine("\n");
 
 
-            ob.AddNewBookCopy(book,3);
-            ob.ShowAllBooks();
-            Console.WriteLine("\n");
+            
 
             Console.ReadLine();
 
