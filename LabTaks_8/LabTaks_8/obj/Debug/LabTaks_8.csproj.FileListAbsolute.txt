@@ -1,0 +1,12 @@
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\bin\Debug\LabTaks_8.exe.config
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\bin\Debug\LabTaks_8.exe
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\bin\Debug\LabTaks_8.pdb
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.csprojAssemblyReference.cache
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.Form1.resources
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.Properties.Resources.resources
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.csproj.GenerateResource.cache
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.csproj.CoreCompileInputs.cache
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.exe
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.pdb
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.AddUser.resources
+C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.Registration.resources
