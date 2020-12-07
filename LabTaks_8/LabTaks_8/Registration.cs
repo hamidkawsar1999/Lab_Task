@@ -12,6 +12,7 @@ namespace LabTaks_8
 {
     public partial class Registration : Form
     {
+        public static string FirstName, LastName,EMAIL,ADDRESS,PHONE,SECURITYANSWER,ZIPCODE,City; 
         public Registration()
         {
             InitializeComponent();
@@ -45,6 +46,21 @@ namespace LabTaks_8
         private void label6_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void RegistrationButton_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            FirstName=FirstNametextBox1.Text;
+            LastName = LastNametextBox2.Text;
+            EMAIL = MailTextBox3.Text;
+            ADDRESS = AddressTextbox.Text;
+            PHONE = PhoneTextBox.Text;
+            SECURITYANSWER = SecurityAnswerTextBox.Text;
+            ZIPCODE=ZipCodeTextBox5.Text;
+            City = CityextBox.Text;
+            ShowDetails f = new ShowDetails();
+            f.Show();
         }
     }
 }

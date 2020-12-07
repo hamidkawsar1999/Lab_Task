@@ -10,3 +10,16 @@ C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.exe
 C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.pdb
 C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.AddUser.resources
 C:\Users\Kawsar Hamid\source\repos\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.Registration.resources
+D:\C#\LabTask\LabTaks_8\LabTaks_8\bin\Debug\LabTaks_8.exe.config
+D:\C#\LabTask\LabTaks_8\LabTaks_8\bin\Debug\LabTaks_8.exe
+D:\C#\LabTask\LabTaks_8\LabTaks_8\bin\Debug\LabTaks_8.pdb
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.csprojAssemblyReference.cache
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.AddUser.resources
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.Form1.resources
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.Properties.Resources.resources
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.Registration.resources
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.ShowDetails.resources
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.csproj.GenerateResource.cache
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.csproj.CoreCompileInputs.cache
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.exe
+D:\C#\LabTask\LabTaks_8\LabTaks_8\obj\Debug\LabTaks_8.pdb

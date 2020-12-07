@@ -33,8 +33,8 @@
             this.DateOfBirthLabel = new System.Windows.Forms.Label();
             this.GenderLabel = new System.Windows.Forms.Label();
             this.PersonalInfoLabel = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.FirstNametextBox1 = new System.Windows.Forms.TextBox();
+            this.LastNametextBox2 = new System.Windows.Forms.TextBox();
             this.MonthComb = new System.Windows.Forms.ComboBox();
             this.AccountInformationLabel = new System.Windows.Forms.Label();
             this.Emaillabel = new System.Windows.Forms.Label();
@@ -120,19 +120,19 @@
             this.PersonalInfoLabel.TabIndex = 4;
             this.PersonalInfoLabel.Text = "Personal Information";
             // 
-            // textBox1
+            // FirstNametextBox1
             // 
-            this.textBox1.Location = new System.Drawing.Point(198, 91);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(237, 22);
-            this.textBox1.TabIndex = 5;
+            this.FirstNametextBox1.Location = new System.Drawing.Point(198, 91);
+            this.FirstNametextBox1.Name = "FirstNametextBox1";
+            this.FirstNametextBox1.Size = new System.Drawing.Size(237, 22);
+            this.FirstNametextBox1.TabIndex = 5;
             // 
-            // textBox2
+            // LastNametextBox2
             // 
-            this.textBox2.Location = new System.Drawing.Point(198, 125);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(237, 22);
-            this.textBox2.TabIndex = 6;
+            this.LastNametextBox2.Location = new System.Drawing.Point(198, 125);
+            this.LastNametextBox2.Name = "LastNametextBox2";
+            this.LastNametextBox2.Size = new System.Drawing.Size(237, 22);
+            this.LastNametextBox2.TabIndex = 6;
             // 
             // MonthComb
             // 
@@ -482,10 +482,12 @@
             // 
             // textBox6
             // 
+            this.textBox6.ForeColor = System.Drawing.SystemColors.ScrollBar;
             this.textBox6.Location = new System.Drawing.Point(294, 661);
             this.textBox6.Name = "textBox6";
             this.textBox6.Size = new System.Drawing.Size(84, 22);
             this.textBox6.TabIndex = 36;
+            this.textBox6.Text = "    optional";
             // 
             // PhoneTextBox
             // 
@@ -516,6 +518,7 @@
             this.RegistrationButton.TabIndex = 39;
             this.RegistrationButton.Text = "Registration";
             this.RegistrationButton.UseVisualStyleBackColor = false;
+            this.RegistrationButton.Click += new System.EventHandler(this.RegistrationButton_Click);
             // 
             // Registration
             // 
@@ -555,13 +558,14 @@
             this.Controls.Add(this.Emaillabel);
             this.Controls.Add(this.AccountInformationLabel);
             this.Controls.Add(this.MonthComb);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.LastNametextBox2);
+            this.Controls.Add(this.FirstNametextBox1);
             this.Controls.Add(this.PersonalInfoLabel);
             this.Controls.Add(this.GenderLabel);
             this.Controls.Add(this.DateOfBirthLabel);
             this.Controls.Add(this.LastNmaeLabel);
             this.Controls.Add(this.FirstNameLabel);
+            this.ForeColor = System.Drawing.Color.Black;
             this.Name = "Registration";
             this.Text = "Registration";
             this.Load += new System.EventHandler(this.Registration_Load);
@@ -577,8 +581,8 @@
         private System.Windows.Forms.Label DateOfBirthLabel;
         private System.Windows.Forms.Label GenderLabel;
         private System.Windows.Forms.Label PersonalInfoLabel;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox FirstNametextBox1;
+        private System.Windows.Forms.TextBox LastNametextBox2;
         private System.Windows.Forms.ComboBox MonthComb;
         private System.Windows.Forms.Label AccountInformationLabel;
         private System.Windows.Forms.Label Emaillabel;

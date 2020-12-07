@@ -13,8 +13,8 @@ namespace LabTaks_8
     public partial class Form1 : Form
     {
         
-        string UserName = "1";
-        string password = "k";
+        string UserName = "19-40077-1";
+        string password = "kawsar";
 
         string UN;
         string Pass;
